@@ -9,6 +9,15 @@
 	<build>
 	    <finalName>ETSWeb</finalName>
 	    <plugins>
+	    	<plugin>
+				<artifactId>ETSWeb</artifactId>
+				<version>1.0</version>
+				<configuration>
+					<warSourceDirectory>WebContent</warSourceDirectory>
+					<failOnMissingWebXml>false</failOnMissingWebXml>
+				</configuration>
+			</plugin>
+            <!--
             <plugin>
                 <groupId>ETS</groupId>
                 <artifactId>ETSWeb</artifactId>
@@ -17,6 +26,7 @@
                     <webXml>WebContent\WEB-INF\web.xml</webXml>
                 </configuration>
             </plugin>
+             -->
          </plugins>
 	</build>
 </project>
