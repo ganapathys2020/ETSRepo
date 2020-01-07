@@ -2,6 +2,5 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>ETSWeb</groupId>
   <artifactId>ETSWeb</artifactId>
-  <version/>
   <packaging>war</packaging>
 </project>
