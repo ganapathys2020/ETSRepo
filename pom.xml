@@ -9,13 +9,13 @@
 	<build>
 	    <finalName>ETSWeb</finalName>
 	    <plugins>
-	<plugin>
-	    <artifactId>ETSWeb</artifactId>
-	    <version>1</version>
-	    <configuration>
-	        <failOnMissingWebXml>false</failOnMissingWebXml>
-	    </configuration>
-	</plugin>
-	</plugins>
+            <plugin>
+                <groupId>ETS</groupId>
+                <artifactId>ETSWeb</artifactId>
+                <configuration>
+                    <webXml>WebContent\WEB-INF\web.xml</webXml>
+                </configuration>
+            </plugin>
+         </plugins>
 	</build>
 </project>
