@@ -4,7 +4,7 @@
   	<groupId>ETS</groupId>
   	<artifactId>ETSWeb</artifactId>
   	<packaging>war</packaging>
-  	<version>1</version>
+  	<version>0</version>
   	<url>http://maven.apache.org</url>
 	<build>
 	    <finalName>ETSWeb</finalName>
