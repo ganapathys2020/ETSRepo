@@ -1,6 +1,7 @@
 <project>
   <modelVersion>4.0.0</modelVersion>
-  <groupId>com.mycompany.app</groupId>
-  <artifactId>ETSWeb.war</artifactId>
-  <version>1</version>
+  <groupId>ETSWeb</groupId>
+  <artifactId>ETSWeb</artifactId>
+  <version/>
+  <packaging>war</packaging>
 </project>
