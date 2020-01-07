@@ -7,11 +7,11 @@
   	<version>1</version>
   	<url>http://maven.apache.org</url>
 	<build>
-	    <finalName>StellarReceive</finalName>
+	    <finalName>ETSWeb</finalName>
 	    <plugins>
 	<plugin>
 	    <artifactId>ETSWeb</artifactId>
-	    <version>2.4</version>
+	    <version>1</version>
 	    <configuration>
 	        <failOnMissingWebXml>false</failOnMissingWebXml>
 	    </configuration>
