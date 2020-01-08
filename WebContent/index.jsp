@@ -7,6 +7,6 @@
 <title>My Jenkins pipeline software</title>
 </head>
 <body>
-This is my first page
+<b>This is my first page</b>
 </body>
 </html>
