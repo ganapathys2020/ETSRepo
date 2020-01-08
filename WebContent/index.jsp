@@ -7,6 +7,6 @@
 <title>Title bar</title>
 </head>
 <body>
-
+This is my first page
 </body>
 </html>
