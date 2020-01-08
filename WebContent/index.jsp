@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-<title>My Jenkins application!</title>
+<title>My Jenkins application!!!</title>
 </head>
 <body>
 <b>This is my first page!</b>
