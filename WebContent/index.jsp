@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-<title>My Jenkins pipeline software</title>
+<title>My Jenkins pipeline application</title>
 </head>
 <body>
 This is my first page
