@@ -7,6 +7,6 @@
 <title>My Web App</title>
 </head>
 <body>
-<b><font color="Blue">This is my first page!..</font></b>
+<b><font color="Red">This is my first page </font></b>
 </body>
 </html>
