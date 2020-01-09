@@ -8,5 +8,6 @@
 </head>
 <body>
 <b><font color="Red">This is my first page </font></b>
+<table border=1><tr><td><font color="Green"><b>Welcome to Jenkins</b></font></td></tr></table>
 </body>
 </html>
