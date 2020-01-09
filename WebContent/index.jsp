@@ -12,6 +12,6 @@
 		<td><font color="Green"><b>Welcome to Jenkins</b></font></td>
 	</tr>
 </table>
-<p><b><font color="Blue">This is my first page </font></b></p>
+<p><b><font color="Blue">Demo on Simple CI CD </font></b></p>
 </body>
 </html>
