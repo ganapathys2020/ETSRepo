@@ -7,7 +7,7 @@
 <title>My Web App</title>
 </head>
 <body>
-<b><font color="Red">This is my first page </font></b>
 <table border=3><tr><td><font color="Green"><b>Welcome to Jenkins</b></font></td></tr></table>
+<b><font color="Blue">This is my first page </font></b>
 </body>
 </html>
