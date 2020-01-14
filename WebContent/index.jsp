@@ -16,7 +16,7 @@
 		</table>
 	</tr>
 	<tr cellspacing=1 cellpadding=1>
-		<p><b><font color="Blue">Demo on Simple CI CD </font></b></p>
+		<p><b><font color="Blue">Demo on Simple CI CD</font></b></p>
 	</tr>
 	<tr cellspacing=1 cellpadding=1>
 		<td><input type="button" id="Submit" name="Submit" value="Submit"></td>
