@@ -7,11 +7,21 @@
 <title>My Web App</title>
 </head>
 <body>
-<table border=3>
-	<tr>
-		<td><font color="Green"><b>Welcome to Jenkins...</b></font></td>
+<table align="center" border=2>
+	<tr cellspacing=1 cellpadding=1>
+		<table border=1>
+			<tr>
+				<td><font color="Green"><b>Welcome to Jenkins...</b></font></td>
+			</tr>
+		</table>
+	</tr>
+	<tr cellspacing=1 cellpadding=1>
+		<p><b><font color="Blue">Demo on Simple CI CD </font></b></p>
+	</tr>
+	<tr cellspacing=1 cellpadding=1>
+		<td><input type="button" id="Submit" name="Submit" value="Submit"></td>
+		<td><input type="text" id="input1" name="input1" value=""></td>
 	</tr>
 </table>
-<p><b><font color="Blue">Demo on Simple CI CD </font></b></p>
 </body>
 </html>
