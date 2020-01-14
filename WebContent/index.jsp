@@ -9,14 +9,10 @@
 <body>
 <table align="center" border=2>
 	<tr cellspacing=1 cellpadding=1>
-		<table border=1>
-			<tr>
-				<td><font color="Green"><b>Welcome to Jenkins...</b></font></td>
-			</tr>
-		</table>
+		<td><font color="Green"><b>Welcome to Jenkins...</b></font></td>
 	</tr>
 	<tr cellspacing=1 cellpadding=1>
-		<p><b><font color="Blue">Demo on Simple CI CD</font></b></p>
+		<td><b><font color="Blue">Demo on Simple CI CD</font></b></td>
 	</tr>
 	<tr cellspacing=1 cellpadding=1>
 		<td><input type="button" id="Submit" name="Submit" value="Submit"></td>
