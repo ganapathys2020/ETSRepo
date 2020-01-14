@@ -9,7 +9,7 @@
 <body>
 <table border=3>
 	<tr>
-		<td><font color="Green"><b>Welcome to Jenkins</b></font></td>
+		<td><font color="Green"><b>Welcome to Jenkins...</b></font></td>
 	</tr>
 </table>
 <p><b><font color="Blue">Demo on Simple CI CD </font></b></p>
